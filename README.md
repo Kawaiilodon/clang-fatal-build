@@ -1,2 +1,2 @@
-cmake -Bbuild -GNinja
+cmake -Bbuild -GNinja  
 ninja -C build
